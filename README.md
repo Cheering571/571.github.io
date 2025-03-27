@@ -19,3 +19,5 @@
 **After I add the search engine, You can set this Demo as the browser home page through the edge Settings.**
 
 ![](https://img1.imgtp.com/2023/06/03/GSytnrP1.png)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)

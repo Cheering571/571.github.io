@@ -20,4 +20,4 @@
 
 ![](https://img1.imgtp.com/2023/06/03/GSytnrP1.png)
 
-[![My Skills](https://skillicons.dev/icons?i=html,ae,au,cpp,docker,github,linux,nginx,notion,obsidian,ps,php,powershell,pr,vscode,flutter&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,ae,au,cpp,docker,github,linux,nginx,notion,obsidian,ps,php,powershell,pr,vscode,flutter&perline=8)](https://skillicons.dev)
